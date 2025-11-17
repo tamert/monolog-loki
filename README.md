@@ -9,19 +9,6 @@ Loki handler for Monolog, providing a formatter that serializes records into the
 - [Contributing](#contributing)
 
 ## Installation
-Add to your composer.json repositories
-```json
-{
-"repositories": [
-    {
-      "type": "gitlab",
-      "url": "https://github.com/tamert/monolog-loki"
-    }
-  ]
-}
-```
-
-
 Require the package via Composer:
 
 ```bash
